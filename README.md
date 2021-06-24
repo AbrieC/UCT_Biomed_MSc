@@ -3,7 +3,7 @@ The application makes use of Unity 2017.4.2f2 + HoloLens MRTK 2017.4.2 + Vuforia
 
 Below is the setupa and building guide for the JuxFiducial Application.
 
-#Note:
+# Note:
 To follow the building guide below basic understanding or working knowledge for Unity, MRTK, Vuforia and Visual studio is required.  
 If not please follow the guide developed by Microsoft Academy (https://docs.microsoft.com/en-us/windows/mixed-reality/tutorials) and MRTK (https://github.com/Microsoft/MixedRealityToolkit-Unity) to ensure all necessary applications have been installed on the machine.
 

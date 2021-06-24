@@ -1,7 +1,7 @@
 # HoloLensFiducial
 The application makes use of Unity 2017.4.2f2 + HoloLens MRTK 2017.4.2 + Vuforia SDK (version 7.0.50) to test accuracy of Vuforia's Spatial placement and hold of virtual object in 3D space while moving through 90degrees or more.
 
-Below is the setupa and building guide for the JuxFiducial Application.
+Below is the setup and building guide for the JuxFiducial Application.
 
 # Note:
 To follow the building guide below basic understanding or working knowledge for Unity, MRTK, Vuforia and Visual studio is required.  

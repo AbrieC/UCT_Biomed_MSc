@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>JuxFiducial</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\abrie\Desktop\MR HMD Root\AR HMD applications\JuxPOC\JuxFiducial\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\abrie\Desktop\MR HMD Root\AR HMD applications\JuxPOC\JuxFiducial\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Hub\Editor\2017.4.2f2\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

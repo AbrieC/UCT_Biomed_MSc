@@ -1,0 +1,2 @@
+C:\Users\abrie\Desktop\MR HMD Root\AR HMD applications\JuxPOC\JuxFiducial\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\abrie\Desktop\MR HMD Root\AR HMD applications\JuxPOC\JuxFiducial\App\JuxFiducial\JuxFiducial.csproj;x86

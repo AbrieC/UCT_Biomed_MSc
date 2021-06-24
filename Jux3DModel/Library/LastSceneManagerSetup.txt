@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/3DModelFocusPoint_Hand.unity
+  isLoaded: 1
+  isActive: 1

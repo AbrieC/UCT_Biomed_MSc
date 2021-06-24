@@ -1,0 +1,2 @@
+C:\Users\abrie\Desktop\MR HMD Root\AR HMD applications\JuxPOC\Jux3DModel\Application\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\abrie\Desktop\MR HMD Root\AR HMD applications\JuxPOC\Jux3DModel\Application\Jux3DModel\Jux3DModel.csproj;x86

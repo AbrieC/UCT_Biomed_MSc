@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jux3DModel", "Jux3DModel.csproj", "{506D7FB0-45AF-D8BC-0FAB-6BD24F08C062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jux3DModel.Editor", "Jux3DModel.Editor.csproj", "{FBBB0C23-A19F-06AC-4959-B4E22EE97BE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{506D7FB0-45AF-D8BC-0FAB-6BD24F08C062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506D7FB0-45AF-D8BC-0FAB-6BD24F08C062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506D7FB0-45AF-D8BC-0FAB-6BD24F08C062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506D7FB0-45AF-D8BC-0FAB-6BD24F08C062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBB0C23-A19F-06AC-4959-B4E22EE97BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBB0C23-A19F-06AC-4959-B4E22EE97BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBB0C23-A19F-06AC-4959-B4E22EE97BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBB0C23-A19F-06AC-4959-B4E22EE97BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

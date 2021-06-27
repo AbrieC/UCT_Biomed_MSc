@@ -1,4 +1,4 @@
-#MSc BME Repo #
+# MSc BME Repo #
 
 The repo contains the Unity packages that enabled my MSc project. 
 

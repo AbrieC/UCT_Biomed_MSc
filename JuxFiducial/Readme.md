@@ -1,4 +1,4 @@
-# Jux3DModel
+# JuxFiducial
 The application makes use of Unity 2017.4.2f2 + HoloLens MRTK 2017.4.2 to test accuracy of the HoloLens to hold the virtual object in 3D space while moving through 90degrees or more.
 
 Below is the setup and building guide for the Jux3DModel Application.

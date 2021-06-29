@@ -12,6 +12,6 @@ Markup :
 * Video of project = https://www.youtube.com/watch?v=hb1170OhSA8
 
 Notable Leap Motion Core prefabs used in combination with the MRTK from Jux3Dmodel: 
-Markup: * LeapHandController --> Queries the Leap Motion service for tracking data and uses it to place hands in the scene. The tracking data from the service is transformed relative to the prefab’s position and orientation in the scene. The scripts in the controller manage the hand objects that represent the physical hands detected by the Leap Motion device.
+* LeapHandController --> Queries the Leap Motion service for tracking data and uses it to place hands in the scene. The tracking data from the service is transformed relative to the prefab’s position and orientation in the scene. The scripts in the controller manage the hand objects that represent the physical hands detected by the Leap Motion device.
 * RigidRoundHand	--> Includes a rigid body and collider composition of for the arm, palm and all of the digits so to animate the graphic visualization
 * Capsule Hand	--> Dynamic graphic visualization to be combined with RigidroundHand

@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 9c721802cc696a14c9c278d0eb88fb13
+timeCreated: 1553006033
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: articularSurface_r_radius_geo001
+    100002: articularSurface_r_ulna_geo001
+    100004: articularSurface_rH_01_Scaphiod_geo001
+    100006: articularSurface_rH_19_4thMetacarpal_geo001
+    100008: articularSurface_rH_20_3rdMetacarpal_geo001
+    100010: articularSurface_rH_23_Trapezoid_geo001
+    100012: //RootNode
+    100014: skeletal_r_hand_03_1stDistalPhalanx_geo001
+    100016: skeletal_r_hand_04_1stProximalPhalanx_geo001
+    100018: skeletal_r_hand_05_1stMetacarpal_geo001
+    100020: skeletal_r_hand_06_2ndDistalPhalanx_geo001
+    100022: skeletal_r_hand_07_2ndMiddlePhalanx_geo001
+    100024: skeletal_r_hand_08_2ndMetacarpal_geo001
+    100026: skeletal_r_hand_09_3rdDistalPhalanx_geo001
+    100028: skeletal_r_hand_10_3rdMiddlePhalanx_geo001
+    100030: skeletal_r_hand_11_3rdProximalPhalanx_geo001
+    100032: skeletal_r_hand_12_4thDistalPhalanx_geo001
+    100034: skeletal_r_hand_13_4thMiddlePhalanx_geo001
+    100036: skeletal_r_hand_14_4thProximalPhalanx_geo001
+    100038: skeletal_r_hand_15_5thDistalPhalanx_geo001
+    100040: skeletal_r_hand_16_5thMiddlePhalanx_geo001
+    100042: skeletal_r_hand_17_5thProximalPhalanx_geo001
+    100044: skeletal_r_hand_18_5thMetacarpal_geo001
+    100046: skeletal_r_hand_19_4thMetacarpal_geo001
+    100048: skeletal_r_hand_20_3rdMetacarpal_geo001
+    100050: skeletal_r_hand_21_2ndMetacarpal_geo001
+    100052: skeletal_r_radius_geo001
+    100054: skeletal_r_ulna_geo001
+    400000: articularSurface_r_radius_geo001
+    400002: articularSurface_r_ulna_geo001
+    400004: articularSurface_rH_01_Scaphiod_geo001
+    400006: articularSurface_rH_19_4thMetacarpal_geo001
+    400008: articularSurface_rH_20_3rdMetacarpal_geo001
+    400010: articularSurface_rH_23_Trapezoid_geo001
+    400012: //RootNode
+    400014: skeletal_r_hand_03_1stDistalPhalanx_geo001
+    400016: skeletal_r_hand_04_1stProximalPhalanx_geo001
+    400018: skeletal_r_hand_05_1stMetacarpal_geo001
+    400020: skeletal_r_hand_06_2ndDistalPhalanx_geo001
+    400022: skeletal_r_hand_07_2ndMiddlePhalanx_geo001
+    400024: skeletal_r_hand_08_2ndMetacarpal_geo001
+    400026: skeletal_r_hand_09_3rdDistalPhalanx_geo001
+    400028: skeletal_r_hand_10_3rdMiddlePhalanx_geo001
+    400030: skeletal_r_hand_11_3rdProximalPhalanx_geo001
+    400032: skeletal_r_hand_12_4thDistalPhalanx_geo001
+    400034: skeletal_r_hand_13_4thMiddlePhalanx_geo001
+    400036: skeletal_r_hand_14_4thProximalPhalanx_geo001
+    400038: skeletal_r_hand_15_5thDistalPhalanx_geo001
+    400040: skeletal_r_hand_16_5thMiddlePhalanx_geo001
+    400042: skeletal_r_hand_17_5thProximalPhalanx_geo001
+    400044: skeletal_r_hand_18_5thMetacarpal_geo001
+    400046: skeletal_r_hand_19_4thMetacarpal_geo001
+    400048: skeletal_r_hand_20_3rdMetacarpal_geo001
+    400050: skeletal_r_hand_21_2ndMetacarpal_geo001
+    400052: skeletal_r_radius_geo001
+    400054: skeletal_r_ulna_geo001
+    2100000: _Atomedge_Arm_SKELETALskl_limbs_mtl1
+    2100002: _Atomedge_Arm_SKELETALskl_articularsurface_mtl1
+    2100004: _Atomedge_Arm_SKELETALskl_articularsurface_mtl
+    2100006: _Atomedge_Arm_SKELETALskl_limbs_mtl
+    2300000: articularSurface_r_radius_geo001
+    2300002: articularSurface_r_ulna_geo001
+    2300004: articularSurface_rH_01_Scaphiod_geo001
+    2300006: articularSurface_rH_19_4thMetacarpal_geo001
+    2300008: articularSurface_rH_20_3rdMetacarpal_geo001
+    2300010: articularSurface_rH_23_Trapezoid_geo001
+    2300012: skeletal_r_hand_03_1stDistalPhalanx_geo001
+    2300014: skeletal_r_hand_04_1stProximalPhalanx_geo001
+    2300016: skeletal_r_hand_05_1stMetacarpal_geo001
+    2300018: skeletal_r_hand_06_2ndDistalPhalanx_geo001
+    2300020: skeletal_r_hand_07_2ndMiddlePhalanx_geo001
+    2300022: skeletal_r_hand_08_2ndMetacarpal_geo001
+    2300024: skeletal_r_hand_09_3rdDistalPhalanx_geo001
+    2300026: skeletal_r_hand_10_3rdMiddlePhalanx_geo001
+    2300028: skeletal_r_hand_11_3rdProximalPhalanx_geo001
+    2300030: skeletal_r_hand_12_4thDistalPhalanx_geo001
+    2300032: skeletal_r_hand_13_4thMiddlePhalanx_geo001
+    2300034: skeletal_r_hand_14_4thProximalPhalanx_geo001
+    2300036: skeletal_r_hand_15_5thDistalPhalanx_geo001
+    2300038: skeletal_r_hand_16_5thMiddlePhalanx_geo001
+    2300040: skeletal_r_hand_17_5thProximalPhalanx_geo001
+    2300042: skeletal_r_hand_18_5thMetacarpal_geo001
+    2300044: skeletal_r_hand_19_4thMetacarpal_geo001
+    2300046: skeletal_r_hand_20_3rdMetacarpal_geo001
+    2300048: skeletal_r_hand_21_2ndMetacarpal_geo001
+    2300050: skeletal_r_radius_geo001
+    2300052: skeletal_r_ulna_geo001
+    3300000: articularSurface_r_radius_geo001
+    3300002: articularSurface_r_ulna_geo001
+    3300004: articularSurface_rH_01_Scaphiod_geo001
+    3300006: articularSurface_rH_19_4thMetacarpal_geo001
+    3300008: articularSurface_rH_20_3rdMetacarpal_geo001
+    3300010: articularSurface_rH_23_Trapezoid_geo001
+    3300012: skeletal_r_hand_03_1stDistalPhalanx_geo001
+    3300014: skeletal_r_hand_04_1stProximalPhalanx_geo001
+    3300016: skeletal_r_hand_05_1stMetacarpal_geo001
+    3300018: skeletal_r_hand_06_2ndDistalPhalanx_geo001
+    3300020: skeletal_r_hand_07_2ndMiddlePhalanx_geo001
+    3300022: skeletal_r_hand_08_2ndMetacarpal_geo001
+    3300024: skeletal_r_hand_09_3rdDistalPhalanx_geo001
+    3300026: skeletal_r_hand_10_3rdMiddlePhalanx_geo001
+    3300028: skeletal_r_hand_11_3rdProximalPhalanx_geo001
+    3300030: skeletal_r_hand_12_4thDistalPhalanx_geo001
+    3300032: skeletal_r_hand_13_4thMiddlePhalanx_geo001
+    3300034: skeletal_r_hand_14_4thProximalPhalanx_geo001
+    3300036: skeletal_r_hand_15_5thDistalPhalanx_geo001
+    3300038: skeletal_r_hand_16_5thMiddlePhalanx_geo001
+    3300040: skeletal_r_hand_17_5thProximalPhalanx_geo001
+    3300042: skeletal_r_hand_18_5thMetacarpal_geo001
+    3300044: skeletal_r_hand_19_4thMetacarpal_geo001
+    3300046: skeletal_r_hand_20_3rdMetacarpal_geo001
+    3300048: skeletal_r_hand_21_2ndMetacarpal_geo001
+    3300050: skeletal_r_radius_geo001
+    3300052: skeletal_r_ulna_geo001
+    4300000: skeletal_r_hand_17_5thProximalPhalanx_geo001
+    4300002: articularSurface_rH_20_3rdMetacarpal_geo001
+    4300004: articularSurface_rH_23_Trapezoid_geo001
+    4300006: skeletal_r_hand_05_1stMetacarpal_geo001
+    4300008: skeletal_r_hand_03_1stDistalPhalanx_geo001
+    4300010: skeletal_r_hand_04_1stProximalPhalanx_geo001
+    4300012: articularSurface_rH_01_Scaphiod_geo001
+    4300014: skeletal_r_hand_08_2ndMetacarpal_geo001
+    4300016: skeletal_r_hand_07_2ndMiddlePhalanx_geo001
+    4300018: skeletal_r_hand_06_2ndDistalPhalanx_geo001
+    4300020: skeletal_r_hand_15_5thDistalPhalanx_geo001
+    4300022: articularSurface_r_ulna_geo001
+    4300024: articularSurface_r_radius_geo001
+    4300026: skeletal_r_hand_12_4thDistalPhalanx_geo001
+    4300028: skeletal_r_hand_21_2ndMetacarpal_geo001
+    4300030: skeletal_r_hand_09_3rdDistalPhalanx_geo001
+    4300032: skeletal_r_ulna_geo001
+    4300034: skeletal_r_hand_10_3rdMiddlePhalanx_geo001
+    4300036: skeletal_r_hand_13_4thMiddlePhalanx_geo001
+    4300038: skeletal_r_hand_18_5thMetacarpal_geo001
+    4300040: skeletal_r_hand_20_3rdMetacarpal_geo001
+    4300042: skeletal_r_hand_14_4thProximalPhalanx_geo001
+    4300044: skeletal_r_radius_geo001
+    4300046: skeletal_r_hand_11_3rdProximalPhalanx_geo001
+    4300048: skeletal_r_hand_16_5thMiddlePhalanx_geo001
+    4300050: articularSurface_rH_19_4thMetacarpal_geo001
+    4300052: skeletal_r_hand_19_4thMetacarpal_geo001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

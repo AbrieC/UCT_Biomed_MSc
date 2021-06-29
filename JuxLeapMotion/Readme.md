@@ -2,7 +2,6 @@ JuxL_Combo Guide
 
 JuxL_Combo is a markerless tracking system which combines the Microsoft HoloLens with Leap Motion’s hand-tracking sensor, the Leap Motion Controller (LMC). 
 
-Markup :
 * The Leap Motion Core Assets 4.4.0 SDK for Unity enable the porting of the processed pose data to the JuxL_Combo Unity built application running on the PC
   * To process the pose data of the 3D printed hand the LMC needs to be connected to a separate PC via Universal Serial Bus (USB) configured with the Leap Motion Orion SDK. 
   * Although the HoloLens Gen 1 has a USB mini port it does not support external peripherals. 

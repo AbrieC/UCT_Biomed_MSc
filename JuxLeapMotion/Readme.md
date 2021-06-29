@@ -1,4 +1,4 @@
-JuxL_Combo Guide
+# JuxL_Combo Guide #
 
 JuxL_Combo is a markerless tracking system which combines the Microsoft HoloLens with Leap Motion’s hand-tracking sensor, the Leap Motion Controller (LMC). 
 
